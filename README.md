@@ -35,7 +35,7 @@ By using an inexpensive Arduino Nano the following functions are available:
 
 Versatility: not all options are mandatory, those who wish to do so, can partially fill the PCB to obtain only the desired functions. This is clearly indicated in the construction manual.
 
-This is waht the full option PCB looks like. External components are an OLED display, speaker, touch paddle contacts, LED's and some buttons and switches.
+This is what the full option PCB looks like. External components are an OLED display, speaker, touch paddle contacts, LED's and some buttons and switches. And your own straight key or paddle of course!
 
 ![PCB Assembled](https://github.com/on7dq/OST-Morse-Box/blob/master/PCB%20Assembled.jpg)
 
