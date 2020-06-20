@@ -3,13 +3,13 @@
 OST is the local UBA amateur radio club in the city of Ostend, Belgium.
 
 The OST Morse Box is a versatile circuit that you can fit between the microphone and the microphone input of any transceiver.
-It was mainly designed for use with a VHF/UHF transceiver, but can be used for many other purposes
+It was mainly designed for use with a VHF/UHF transceiver, but can be used for many other purposes.
 
 The main goal is to be able to hold CW practice sessions on the 2m or 70cm band, where the students themselves can reply to the teacher in FM-modulated CW. Another use is to make a few practice QSO's in a safe environment, before "throwing yourself" on the HF bands ...
 
 In addition, the circuit contains a number of extra features, making this a very interesting club-building project.
 
-![Block Diagram](https://github.com/on7dq/OST-Morse-Box/blob/Block diagram.jpg?raw=true)
+[Block Diagram](https://github.com/on7dq/OST-Morse-Box/blob/master/Block%20diagram.jpg)
 
 By using an inexpensive Arduino Nano the following functions are available:
 
