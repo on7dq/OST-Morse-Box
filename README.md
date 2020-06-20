@@ -35,7 +35,7 @@ By using an inexpensive Arduino Nano the following functions are available:
 
 Versatility: not all options are mandatory, those who wish to do so, can partially fill the PCB to obtain only the desired functions. This is clearly indicated in the construction manual.
 
-
+![PCB Assembled](https://github.com/on7dq/OST-Morse-Box/blob/master/PCB%20Assembled.jpg)
 
 The software and the development of the PCB layout were done by OST club member Gilbert, ONL12523.
 I just came up with the idea for the Morse Box ... built the first prototype, and wrote the manual.
