@@ -9,7 +9,7 @@ The main goal is to be able to hold CW practice sessions on the 2m or 70cm band,
 
 In addition, the circuit contains a number of extra features, making this a very interesting club-building project.
 
-![Block Diagram](https://github.com/on7dq/OST-Morse-Box/img/Block diagram.jpg?raw=true)
+![Block Diagram](https://github.com/on7dq/OST-Morse-Box/blob/Block diagram.jpg?raw=true)
 
 By using an inexpensive Arduino Nano the following functions are available:
 
