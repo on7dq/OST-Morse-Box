@@ -22,11 +22,11 @@ By using an inexpensive Arduino Nano the following functions are available:
 	Keying with Straight Key, Paddle or a built-in Touch Paddle!
 	Paddle polarity settable to NORMAL / REVERSE
 	Built-in "Keep Alive" circuit for use with a Power Bank
-	Adaptable to all existing transceivers, provided you can find the appropriate microphone plugs (male and female)
-	The basic model is based on the widely distributed RJ-45 connections. 
-	Power via the USB connection of the Arduino, or from the microphone jack of the transceiver, or by an external power supply.
-	Use as a separate electronic keyer for transceivers without a built-in keyer (self-built QRP transmitters, etc.).
-	Random CW generator, display characters in the serial monitor and on OLED display.
+	Adaptable to all existing transceivers, using the appropriate microphone plugs (male and female)
+	  (The basic model is based on the widely distributed RJ-45 connectors) 
+	Power via the USB connection of the Arduino, from the microphone jack from an external power supply
+	Use as a separate electronic keyer for transceivers without a built-in keyer
+	Random CW generator, display characters in the serial monitor and on the OLED display.
 	Beacon function, can also be used as a memory keyer (1 memory of 80 characters).
 	Additional functions can be set via AT commands via the serial monitor
 	Entering and transmitting text via the serial monitor
@@ -35,9 +35,11 @@ By using an inexpensive Arduino Nano the following functions are available:
 
 Versatility: not all options are mandatory, those who wish to do so, can partially fill the PCB to obtain only the desired functions. This is clearly indicated in the construction manual.
 
+This is waht the full option PCB looks like. External components are an OLED display, speaker, touch paddle contacts, LED's and some buttons and switches.
+
 ![PCB Assembled](https://github.com/on7dq/OST-Morse-Box/blob/master/PCB%20Assembled.jpg)
 
-The software and the development of the PCB layout were done by OST club member Gilbert, ONL12523.
+The software and the development of the PCB layout were done by OST club member Gilbert, ONL12523. Great work!
 I just came up with the idea for the Morse Box ... built the first prototype, and wrote the manual.
 
 Good luck in building, and have fun using the OST Morse Box!
