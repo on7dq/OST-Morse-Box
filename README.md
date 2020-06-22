@@ -24,7 +24,7 @@ By using an inexpensive Arduino Nano the following functions are available:
 	Built-in "Keep Alive" circuit for use with a Power Bank
 	Adaptable to all existing transceivers, using the appropriate microphone plugs (male and female)
 	  (The basic model is based on the widely distributed RJ-45 connectors) 
-	Power via the USB connection of the Arduino, from the microphone jack from an external power supply
+	Power via the USB connection of the Arduino, via the microphone jack or from an external power supply
 	Use as a separate electronic keyer for transceivers without a built-in keyer
 	Random CW generator, display characters in the serial monitor and on the OLED display.
 	Beacon function, can also be used as a memory keyer (1 memory of 80 characters).
