@@ -35,7 +35,7 @@ By using an inexpensive Arduino Nano the following functions are available:
 
 All files needed for making the PCB are in the zipfile above. Make it yourself, order from a local manufacturer,
 or order them cheaply in China (send a mail to ON7DQ for more info).
-If you or your club make one or more of these PCB's, please send me a mail, we would love to hear how many of these Morse Boxes were built.
+If you or your club make one or more of these PCB's, please send us a mail, we would love to hear from you: how many were built, were you succesful, what do like or dislike?We would like to keep track of how many of these Morse Boxes were built.
 
 Versatility: not all options are mandatory, those who wish to do so, can partially fill the PCB to obtain only the desired functions. This is clearly indicated in the construction manual.
 
