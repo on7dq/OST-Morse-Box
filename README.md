@@ -33,6 +33,10 @@ By using an inexpensive Arduino Nano the following functions are available:
 	Windows program for controlling the OST Morse Box (then no need for the Arduino IDE)
 	Built-in TEST function for touch paddle
 
+All files needed for making the PCB are in the zipfile above. Make it yourself, order from a local manufacturer,
+or order them cheaply in China (send a mail to ON7DQ for more info).
+If you or your club make one or more of these PCB's, please send me a mail, we would love to hear how many of these Morse Boxes were built.
+
 Versatility: not all options are mandatory, those who wish to do so, can partially fill the PCB to obtain only the desired functions. This is clearly indicated in the construction manual.
 
 This is what the full option PCB looks like. External components are an OLED display, speaker, touch paddle contacts, LED's and some buttons and switches. And your own straight key or paddle of course!
