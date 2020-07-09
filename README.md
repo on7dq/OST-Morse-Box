@@ -37,6 +37,8 @@ All files needed for making the PCB are in the zipfile above. Make it yourself, 
 or order them cheaply in China (send a mail to ON7DQ for more info).
 You can also change the PCB to your liking, it was developed with the free edition of DipTrace (https://diptrace.com/)
 
+NOTE : the PCB has been updated to use a more common relay than you see in the manual and on the pictures. 
+
 If you or your club make one or more of these PCB's, please send us a mail, we would love to hear from you: how many were built, were you succesful, what did like or dislike?
 We would like to keep track of how many of these Morse Boxes were built.
 
