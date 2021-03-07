@@ -1,5 +1,10 @@
 # OST-Morse-Box
 
+**NOTE** : check out the extra functions in the new version: Decoder, AF Generator and Iambic A & B keyer modes, 
+see :
+https://github.com/on7dq/OST-Morse-Box-DG 
+
+
 OST is the local UBA amateur radio club in the city of Ostend, Belgium.
 
 The OST Morse Box is a versatile circuit that you can fit between the microphone and the microphone input of any transceiver.
