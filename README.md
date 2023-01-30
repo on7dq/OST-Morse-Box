@@ -48,7 +48,7 @@ You can also change the PCB to your liking, it was developed with the free editi
 
 NOTE : the PCB has been updated to use a more common relay than you see in the manual and on the pictures. 
 
-If you or your club make one or more of these PCB's, please send us a mail, we would love to hear from you: how many were built, were you succesful, what did like or dislike?
+If you or your club make one or more of these PCB's, please send us a mail, we would love to hear from you: how many were built, were you succesful, what did you like or dislike?
 We would like to keep track of how many of these Morse Boxes were built.
 
 Versatility: not all options are mandatory, those who wish to do so, can partially fill the PCB to obtain only the desired functions. This is clearly indicated in the construction manual.
@@ -58,7 +58,7 @@ This is what the full option PCB looks like. External components are an OLED dis
 ![PCB Assembled](https://github.com/on7dq/OST-Morse-Box/blob/master/PCB%20Assembled.jpg)
 
 The software and the development of the PCB layout were done by OST club member Gilbert, ONL12523. Great work!
-I just came up with the idea for the Morse Box ... built the first prototype, and wrote the manual.
+I just came up with the idea for the Morse Box ... built the first prototype, and wrote the documentation.
 
 Oh, and we made some videos too ! Check them out at my YouTube channel.
 Start with this video https://youtu.be/ROU9pVeI86k
