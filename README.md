@@ -7,10 +7,12 @@ https://github.com/on7dq/OST-Morse-Box-DG
 Also a new version of the WIndows Control Program has been written, now including a fun game, see :
 https://github.com/on7dq/OST-Morse-Box-V3
 
-![book212cover](https://user-images.githubusercontent.com/17215772/215432889-d6ac3934-f121-4c28-a317-8a4a4f6fa4c6.jpg)
-
 Oh, and we made some videos too ! Check them out at my YouTube channel.
 Start with this video https://youtu.be/ROU9pVeI86k
+
+![book212cover](https://user-images.githubusercontent.com/17215772/215432889-d6ac3934-f121-4c28-a317-8a4a4f6fa4c6.jpg)
+
+
 
 OST is the local UBA amateur radio club in the city of Ostend, Belgium.
 
